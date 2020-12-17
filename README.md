@@ -1,1 +1,1 @@
-[![Mecser's github stats](https://github-readme-stats.vercel.app/api?mecserlevente=anuraghazra)](https://github.com/mecserlevente/github-readme-stats)
+![Mecser Levente's github stats](https://github-readme-stats.vercel.app/api?username=mecserlevente&show_icons=true&theme=tokyonight)
