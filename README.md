@@ -1,4 +1,4 @@
-## :jack_o_lantern: stats 
+## :jack_o_lantern: Stats: 
 ![Mecser Levente's github stats](https://github-readme-stats.vercel.app/api?username=mecserlevente&show_icons=true&theme=synthwave)
 
 ## :hammer: Languages and tools:
