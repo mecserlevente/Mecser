@@ -8,8 +8,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png" alt="IntelliJ" height="40" style="vertical-align:top; margin:4px">&nbsp&nbsp&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" alt="mysql" height="40" style="vertical-align:top; margin:4px">&nbsp&nbsp&nbsp
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" height="40" style="vertical-align:top; margin:4px">&nbsp&nbsp&nbsp
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Cisco_logo.svg/1280px-Cisco_logo.svg.png" alt="mysql" height="40" style="vertical-align:top; margin:4px">
- 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Cisco_logo.svg/1280px-Cisco_logo.svg.png" alt="ccna routing and switching" height="40" style="vertical-align:top; margin:4px">&nbsp&nbsp&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" height="40" style="vertical-align:top; margin:4px">
   
 </p>
 
