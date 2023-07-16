@@ -18,6 +18,6 @@
 
 <p align="center">
  <a href="https://www.instagram.com/mecserlevente/" target="_blank" rel="noopener noreferrer"> <img src="https://www.shareicon.net/data/2016/11/16/854126_color_512x512.png" alt="Instagram" height="45" style="vertical-align:top; margin:4px "> </a>   &nbsp&nbsp&nbsp
- <a href="linkedin.com/in/levente-mecser-556929199" target="_blank" rel="noopener noreferrer"> <img src="https://orioni.co/nmedia/png/linkedin-6212.png" alt="Plinkedin" height="40" style="vertical-align:top; margin:4px"></a>&nbsp&nbsp&nbsp
+ <a href="linkedin.com/in/levente-mecser-556929199" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="Plinkedin" height="40" style="vertical-align:top; margin:4px"></a>&nbsp&nbsp&nbsp
  <a href="https://www.freelancer.com/u/mecserlevente"> <img src="https://cdn.worldvectorlogo.com/logos/freelancer-1.svg" alt="Freelancer" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
